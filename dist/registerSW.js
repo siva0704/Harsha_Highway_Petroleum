@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/Harsha_Highway_Petroleum/sw.js', { scope: '/Harsha_Highway_Petroleum/' })})}
